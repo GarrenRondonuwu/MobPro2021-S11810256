@@ -14,7 +14,7 @@
   //   callBack(fullName);
  //}
 
- //introduction("Jay", "Assan", (fullName) => {
+ //introduction("Garren", "Axel Arie", (fullName) => {
    //  console.log(`Hi ${fullName}`);
  //} );
 
@@ -92,7 +92,7 @@
  //function getNameById (id){
  //    return new Promise((resolve, reject)=>{
  //        if (id == "12345") {
- //            resolve("Jay Assan");
+ //            resolve("Garren Axel Arie");
  //        }
  //        else {
   //           reject("Unknown ID Student");
